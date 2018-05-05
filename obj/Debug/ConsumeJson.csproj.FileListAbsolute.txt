@@ -1,0 +1,12 @@
+C:\ConsumeJson\ConsumeJson\bin\Debug\ConsumeJson.exe.config
+C:\ConsumeJson\ConsumeJson\bin\Debug\ConsumeJson.exe
+C:\ConsumeJson\ConsumeJson\bin\Debug\ConsumeJson.pdb
+C:\ConsumeJson\ConsumeJson\bin\Debug\EntityFramework.dll
+C:\ConsumeJson\ConsumeJson\bin\Debug\EntityFramework.SqlServer.dll
+C:\ConsumeJson\ConsumeJson\bin\Debug\Newtonsoft.Json.dll
+C:\ConsumeJson\ConsumeJson\bin\Debug\EntityFramework.xml
+C:\ConsumeJson\ConsumeJson\bin\Debug\EntityFramework.SqlServer.xml
+C:\ConsumeJson\ConsumeJson\bin\Debug\Newtonsoft.Json.xml
+C:\ConsumeJson\ConsumeJson\obj\Debug\ConsumeJson.csprojResolveAssemblyReference.cache
+C:\ConsumeJson\ConsumeJson\obj\Debug\ConsumeJson.exe
+C:\ConsumeJson\ConsumeJson\obj\Debug\ConsumeJson.pdb
